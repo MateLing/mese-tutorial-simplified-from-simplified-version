@@ -39,4 +39,4 @@ MPI 的结算每期利润之和（Retained Earning）起最关键的作用！
 ----------------
 *本文由Ling zeheng(Matt)修订自[MateLing/mese-tutorial-simplified](https://github.com/MateLing/mese-tutorial-simplified)
 原文由hcz（Huo chezhan）编写，Ling zeheng（Matt）校对修改。
-本文为便于非某圈内玩家使用与交流MESE而设。
+本文为便于非某圈内玩家使用与交流MESE而设。*
