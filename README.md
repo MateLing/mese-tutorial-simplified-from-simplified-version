@@ -1,4 +1,4 @@
-MESE-TUTORIAL-SIMPLIFIED-FROM-SIMPLIFIED
+MESE-TUTORIAL-SIMPLIFIED-FROM-SIMPLIFIED-VERSION
 ============
 
 MESE 全称 Management and Economics Simulation Exercise！最初是哈佛大学制作的商业模拟软件！
