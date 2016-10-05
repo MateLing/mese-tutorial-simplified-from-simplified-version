@@ -1,5 +1,6 @@
 MESE-TUTORIAL-SIMPLIFIED-FROM-SIMPLIFIED
 ============
+
 MESE 全称 Management and Economics Simulation Exercise！最初是哈佛大学制作的商业模拟软件！
 
 在上世纪末本世纪初，青年成就（JA）组织广泛地使用这套软件来进行高中、大学经济学课程（JA Economics）教学！
@@ -20,10 +21,10 @@ MESE 的总回合数通常为八！
 
 # 在 80% 产能时单位成本最小！
 
-Mk 是单期起效的！投CI 得更多的产能！RD 类似 Mk 效果但多期有效且与价格无关！
+Mk 是单期起效的！投 CI 得更多的产能！RD 类似 Mk 效果但多期有效且与价格无关！
 MPI
 
-MPI 的结算每期利润之和起最关键的作用！
+MPI 的结算每期利润之和（Retained Earning）起最关键的作用！
 
 决策的时候根据unfilled orders和inventory调整价格！
 
@@ -37,5 +38,5 @@ MPI 的结算每期利润之和起最关键的作用！
 
 ----------------
 本文由Ling zeheng(Matt)修订自(MateLing/mese-tutorial-simplified)[https://github.com/MateLing/mese-tutorial-simplified]
-原文由Hu chenzhang（Huo chezhan)编写，Ling zeheng（Matt）校对修改。
+原文由hcz（Huo chezhan）编写，Ling zeheng（Matt）校对修改。
 本文为便于非某圈内人士使用与交流MESE而设。
