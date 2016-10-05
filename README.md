@@ -37,6 +37,6 @@ MPI 的结算每期利润之和（Retained Earning）起最关键的作用！
 *MESE 有毒的原因在于，它具有“少数占优”的原则，与众不同的决策往往能获得优势，带来了博弈的乐趣。价格、Mk 和 RD 都具有竞争性， 越多人争取，每人分的份额越少。最优的决策往往是差异化的，而决策相近的玩家需要一起面对失利。玩家不仅需要在战略方向上作出取舍，还需要考虑为决策保留多少变化的可能性。战略应变能力是以利润为代价换取的。*
 
 ----------------
-本文由Ling zeheng(Matt)修订自[MateLing/mese-tutorial-simplified](https://github.com/MateLing/mese-tutorial-simplified)
+*本文由Ling zeheng(Matt)修订自[MateLing/mese-tutorial-simplified](https://github.com/MateLing/mese-tutorial-simplified)
 原文由hcz（Huo chezhan）编写，Ling zeheng（Matt）校对修改。
-本文为便于非某圈内人士使用与交流MESE而设。
+本文为便于非某圈内玩家使用与交流MESE而设。
